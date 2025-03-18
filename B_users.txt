@@ -1,0 +1,2 @@
+Clopotel;Admin;clopotel.admin@gmail.com;safepass1!;1
+Romeo;Programache;romeo.programache@gmail.com;supersafepass1!;0

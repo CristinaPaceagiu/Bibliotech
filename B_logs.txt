@@ -1,0 +1,7 @@
+1;2024-04-23;visitor in Bibliotech
+2;2024-04-23;visitor in Bibliotech
+3;2024-04-24;vicitor in Bibliotech
+4;2024-04-28;visitor in Bibliotech
+5;2024-04-28;register user;Lonely;Ranger;lonely.ranger@gmail.com;summerpass1!;0
+6;2024-04-28;register user;lonely.ranger@gmail.com;summerpass1!;71lon508summ
+7;2024-04-28;create auth_token;lonely.ranger@gmail.com;summerpass1!;25lon330summ

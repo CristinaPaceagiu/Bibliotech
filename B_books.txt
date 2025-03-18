@@ -1,0 +1,11 @@
+1;Harry Potter;J.K. Rowling;description Harry Potter;disponibila
+2;The Lord of the Rings;J.R.R.Tolkien;description The Lord of the Rings;disponibila
+3;The Alchemist;Paulo Coelho;description The Alchemist;imprumutata
+4;The Da Vinci Code;Dan Brown;description The Da Vinci Code;imprumutata
+5;Ek Samandar;Sanjeev Joshi;description Ek Samandar;disponibila
+6;The Twilight Saga;Stephenie Meyer;description The Twilight Saga;disponibila
+7;Magic Sunrise;Stephenie Meyer;description Magic Sunrise;disponibila
+8;Storytelling w data;Cole Knaflic;description Storytelling w data;imprumutata
+9;Harry Upper;J.K. Rowling;description Harry Upper;disponibila
+10;Sunrise;James Row;description Sunrise;disponibila
+
