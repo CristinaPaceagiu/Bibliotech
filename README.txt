@@ -1,3 +1,7 @@
+Technologies used: Python, Python Flask, Postman, VS Code
+Description: Developing a REST API application to easily manage both the books in a library and its users, and the interaction between users and the library.
+The functionalities that the library has are performed by users with Admin or Simple User roles, who, depending on permissions, can add or remove books, view books, view transactions and their history, borrow books, extend the term of a borrowed book or return borrowed books. Users can also receive penalties for exceeding the return deadline. The application also allows adding reviews and ratings for books.
+
 Fisiere .txt:
 B_users.txt: first_name;last_name;email;password;type(1-admin, 0-simple user)
 B_tokens: email;password;auth_token
